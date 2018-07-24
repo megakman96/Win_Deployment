@@ -1,3 +1,3 @@
 # Win_Deployment
 
-This is a test
+This repository is for custom batch, powershell, registry editor, etc files for quick changes to Windows settings
